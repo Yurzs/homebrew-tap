@@ -8,7 +8,7 @@
 class MacCleanup < Formula
   desc "macOS disk cleanup tool for developers"
   homepage "https://github.com/Yurzs/mac-cleanup"
-  version "0.2.1"
+  version "0.2.2"
   license "MIT"
 
   # Universal binary handles both arm64 and x86_64 macOS.
